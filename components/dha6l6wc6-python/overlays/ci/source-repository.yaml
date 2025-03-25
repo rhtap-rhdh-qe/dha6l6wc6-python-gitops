@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dha6l6wc6-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dha6l6wc6-python
